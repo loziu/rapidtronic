@@ -42,3 +42,7 @@ Video demo
 
 
 
+Licence
+------
+
+This software contains code released under the GPLv2 and the Beerware licence. Hence, I release everything under the GPLv2 as well.
