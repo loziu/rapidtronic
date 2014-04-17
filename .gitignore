@@ -1,0 +1,6 @@
+Release/
+*.o
+*.d
+.cproject
+.project
+.settings/
