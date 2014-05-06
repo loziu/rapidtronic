@@ -200,6 +200,9 @@ int main(void) {
     tx_init();
     ir_init();
     rgb_init();
+
+    fill_led(0, 255, 0);
+
     mag_init();
 
     _delay_ms(500);
@@ -209,7 +212,7 @@ int main(void) {
     write_serial_msg('b','o','o','t');
     _delay_ms(1000);
     // write revision rE:x.x
-    write_serial_msg('r','e','0','2');
+    write_serial_msg('r','e','0','3');
     write_serial_dots(0,0,1,0,1,0);
     _delay_ms(1000);
     write_serial_dots(0,0,0,0,0,0);
