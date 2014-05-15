@@ -40,6 +40,7 @@ Image gallery
 Video demo
 ------
 
+[Here] (https://vimeo.com/95455600)
 
 
 Licence
